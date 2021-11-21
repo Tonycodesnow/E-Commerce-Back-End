@@ -4,6 +4,7 @@ const { Tag, Product, ProductTag } = require('../../models');
 // The `/api/tags` endpoint
 
 router.get('/', (req, res) => {
+  
   // find all tags
   // be sure to include its associated Product data
 });
@@ -15,6 +16,15 @@ router.get('/:id', (req, res) => {
 
 router.post('/', (req, res) => {
   // create a new tag
+  Tag.create({
+    name: req.body.name
+  })
+    .then(tag => {
+      res.json(tag);
+    })
+    .catch(err => {
+      res.status(500).json(err);
+    });
 });
 
 router.put('/:id', (req, res) => {
