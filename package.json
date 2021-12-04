@@ -1,12 +1,11 @@
 {
-  "name": "E-Commerce-Back-End",
+  "name": "ecommerce-backend",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
-    "watch": "nodemon server.js",
     "seed": "node seeds/index.js"
   },
   "repository": {
@@ -14,7 +13,7 @@
     "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Antonio Huerta",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.3"
