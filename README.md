@@ -49,8 +49,7 @@ Once the E-commerce application runs, the user can utilize the functionality of 
 
 screenshot in insomia
 
-<p align="center"><img src="./dist/media/livesite.png" width="45%"></p> <br /> 
-
+<p align="center"><img src="./assets/images/ecomdb.png" width="45%"></p> <br />
 ## Demos
 
 Click on the link below for a video demonstration of the application and the generated API routes:
