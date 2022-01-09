@@ -16,11 +16,11 @@
 - [Questions](#questions)
 
 <br />
-<br />
 
 ## Description
 
-Due to the prevalence of Internet retail, also known as e-commerce, is the largest sector of the electronics industry, having generated an estimated US$29 trillion in 2017 (Source: United Nations Conference on Trade and Development). This application is the back end for an e-commerce site using Express.js API and configured to use Sequelize to interact with a MySQL database.<br />
+- The largest sector of the electronics industry known as e-commerce, has generated an estimated USD$29 trillion in 2017 due to the prevalence of Internet retail (Source: United Nations Conference on Trade and Development). 
+- This application is the back end for an e-commerce site using Express.js API and configured to use Sequelize to interact with a MySQL database.<br />
 
 ## Installation
 To install all the dependencies, use the command below:
@@ -35,7 +35,7 @@ Then, install the dependencies with command:
 ```
 npm i
 ```
-Then, run the folloeing command to run the seed file:
+Then, run the following command to run the seed file:
 ```
 npm run seed
 ```
@@ -47,14 +47,15 @@ Once the E-commerce application runs, the user can utilize the functionality of 
 
 ## Screenshots
 
-screenshot in insomia
+screenshot in insomnia
 
-<p align="center"><img src="./assets/images/ecomdb.png" width="45%"></p> <br />
+<p align="center"><img src="./assets/images/ecomdb.png" width="55%"></p> <br />
+
 ## Demos
 
 Click on the link below for a video demonstration of the application and the generated API routes:
 
-https://www.youtube.com/watch?v=2_dT2A-LKOg
+https://watch.screencastify.com/v/Bh6EcbFyoeOoMJuN1AwS
 
 
 ## Github application link
@@ -69,12 +70,10 @@ JavaScript, Node, Inquirer, MySQL2, Sequelize, Express.js API and the dotenv pac
 ## License
 
 This project is licensed under the MIT license. <br />
-  
-<br />
 
 ## Questions?
 
 If you have any questions, contact me at: 
 tony.huertinez@gmail.com  <br />
-Check out my other work at GitHUb:
+Check out my other work at GitHub:
 [antoniohuerta](https://github.com/Tonycodesnow) <br />
